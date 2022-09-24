@@ -5,4 +5,4 @@ tgcrypto
 yt_dlp
 uuid
 urllib3
-https://github.com/junaidjaan1388/Telegram-Song-Downloader-Bot
+
